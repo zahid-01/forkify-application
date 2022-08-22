@@ -86,7 +86,9 @@ const controlBookmarks = function () {
 };
 
 const newFeature = function () {
-  console.log('Welcome to the application');
+  console.log(
+    'Welcome to the application! This side is on continious deployment integration'
+  );
 };
 
 const init = function () {
